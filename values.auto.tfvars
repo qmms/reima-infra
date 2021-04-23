@@ -1,3 +1,6 @@
-jx_git_url = https://github.com/qmms/reima-key.git
-jx_bot_username = bot-qmms
-
+jx_git_url = "https://github.com/qmms/reima-key"
+jx_bot_username = "bot-qmms"
+jx_bot_token = "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"
+cluster_version = "1.19.7"
+location = "westeurope"
+key_vault_name = "reima-vault-we"
